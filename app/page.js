@@ -224,11 +224,11 @@ export default function Home() {
           <div className="right flex h-[100%] w-full flex-col gap-16">
             <div className="flex flex-col gap-8">
               <h5 className="uppercase text-sm text-gray-500 font-semibold">Partnership mentality</h5>
-              <p className="text-black text-[22px]">Along with taking the lead in designing AI-powered solutions, we embody a partnership mentality. This exact commitment has been the bedrock of our clients’ successes. When you choose to collaborate with us, we promise to be right where your audience's changing desires meet your ambitious business goals. We don't settle for mediocrity; we strive for excellence in every Figma pixel, every touchpoint, and every UX interaction.</p>
+              <p className="text-black text-[22px]">Along with taking the lead in designing AI-powered solutions, we embody a partnership mentality. This exact commitment has been the bedrock of our clients&apos; successes. When you choose to collaborate with us, we promise to be right where your audience&apos;s changing desires meet your ambitious business goals. We don&apos;t settle for mediocrity; we strive for excellence in every Figma pixel, every touchpoint, and every UX interaction.</p>
             </div>
             <div className="flex flex-col gap-8">
               <h5 className="uppercase text-sm text-gray-500 font-semibold">result</h5>
-              <p className="text-black text-[22px]">That is how we've built 50+ sustainable startup products and helped 400+ brands secure millions in funding, achieve successful acquisitions, and establish themselves as globally recognized companies.</p>
+              <p className="text-black text-[22px]">That is how we&apos;ve built 50+ sustainable startup products and helped 400+ brands secure millions in funding, achieve successful acquisitions, and establish themselves as globally recognized companies.</p>
             </div>
           </div>
         </div>
@@ -276,7 +276,7 @@ export default function Home() {
             <div className="flex flex-col justify-between px-6 pb-6 pt-10 h-[40svh] w-[28.5svw] bg-[#eeecec]">
               <div>
                 <h2 className="text-7xl text-black">+42%</h2>
-                <h5 className="text-sm mt-5 text-black">Increase in the app’s retention rate</h5>
+                <h5 className="text-sm mt-5 text-black">Increase in the app&apos;s retention rate</h5>
               </div>
               <h6 className="text-gray-400 text-sm font-semi-bold">/006</h6>
             </div>
@@ -554,7 +554,7 @@ export default function Home() {
         <div className="right w-1/2">
           <div className="border-t-2 border-[#66666859] flex flex-col gap-9 py-9">
             <h4 className="uppercase text-sm font-semibold">/01</h4>
-            <h3 className="text-2xl tracking-tight">“I had the pleasure of working with Maria and Lera backed by the amazing design team at Lazarev, and I cannot recommend them highly enough. From start to finish, they were excellent communicators and made the entire process incredibly smooth.</h3>
+            <h3 className="text-2xl tracking-tight">&quot;I had the pleasure of working with Maria and Lera backed by the amazing design team at Lazarev, and I cannot recommend them highly enough. From start to finish, they were excellent communicators and made the entire process incredibly smooth.</h3>
             <div className="flex gap-5 py-12">
               <img className="size-16 rounded-full" src="/imgs/nickchapmn.webp" alt="" />
               <div className="">
@@ -565,7 +565,7 @@ export default function Home() {
           </div>
           <div className="border-t-2 border-[#66666859] flex flex-col gap-9 pt-9">
             <h4 className="uppercase text-sm font-semibold">/02</h4>
-            <h3 className="text-2xl tracking-tight">"They care about the client and have a deep focus on solving problems efficiently."</h3>
+            <h3 className="text-2xl tracking-tight">&quot;They care about the client and have a deep focus on solving problems efficiently.&quot;</h3>
             <div className="flex gap-5 py-12">
               <img className="size-16 rounded-full" src="/imgs/mathiasson.webp" alt="" />
               <div>
@@ -784,10 +784,10 @@ export default function Home() {
           </div>
           <div className="flex gap-7">
             <h5 className="w-full">
-              <p className="text-lg text-left leading-6 pr-10 tracking-tight">Expect our design company to go through the hell and water of user and market research, product positioning, prototyping, visual design, and user testing up to launching and IPO. Yet, we're not the type to blindly follow the commands of stakeholders; instead, our product team asks unconventional</p>
+              <p className="text-lg text-left leading-6 pr-10 tracking-tight">Expect our design company to go through the hell and water of user and market research, product positioning, prototyping, visual design, and user testing up to launching and IPO. Yet, we&apos;re not the type to blindly follow the commands of stakeholders; instead, our product team asks unconventional</p>
             </h5>
             <h5 className="w-full">
-              <p className="text-lg text-left leading-6 pr-10 tracking-tight">questions, not restraining ourselves to “what” but getting to “why” and seeking “how”. Our project managers challenge assumptions and push the boundaries of “how it’s done” while our product designers will present you with game-changing alternatives that deliver results.</p>
+              <p className="text-lg text-left leading-6 pr-10 tracking-tight">questions, not restraining ourselves to &quot;what&quot; but getting to &quot;why&quot; and seeking &quot;how&quot;. Our project managers challenge assumptions and push the boundaries of &quot;how it&apos;s done&quot; while our product designers will present you with game-changing alternatives that deliver results.</p>
             </h5>
           </div>
         </div>
@@ -856,7 +856,7 @@ export default function Home() {
               <h5>•</h5>
               <h5 className="hover:text-[#929294] transition-all ease-out duration-300">Our Story</h5>
               <h5>•</h5>
-              <h5 className="hover:text-[#929294] transition-all ease-out duration-300">Clients’ Feedback</h5>
+              <h5 className="hover:text-[#929294] transition-all ease-out duration-300">Clients&apos; Feedback</h5>
               <h5>•</h5>
             </div>
             <div className="flex gap-2">

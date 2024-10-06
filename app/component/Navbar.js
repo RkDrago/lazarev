@@ -55,7 +55,7 @@ const Navbar = () => {
             <div className="w-[87%] mx-auto flex items-center justify-between py-5">
                 <h1 className='text-2xl font-extrabold z-10'>LAZAREV.</h1>
                 <button className="group text-sm p-[14px] pr-16 rounded-full font-bold flex relative z-10">
-                    <span className='z-[1]'>LET'S TALK</span>
+                    <span className='z-[1]'>LET&apos;S TALK</span>
                     <span className="transition-all ease-out duration-500 bg-[#0da34e] rounded-full absolute pl-[121px] p-[14px] right-0 top-0 group-hover:pl-[14px]"><svg className='size-5' fill="none" viewBox="0 0 20 20"><path fill="#fff" d="M2.5 14.375V17.5h3.125l9.217-9.217-3.125-3.125L2.5 14.375Zm14.758-8.508a.83.83 0 0 0 0-1.175l-1.95-1.95a.83.83 0 0 0-1.175 0l-1.525 1.525 3.125 3.125 1.525-1.525Z"></path></svg></span>
                 </button>
             </div>
@@ -128,7 +128,7 @@ const Navbar = () => {
                                 <span className='yspan absolute -bottom-5'>Our story</span>
                             </li>
                             <li className='relative h-5 hover:opacity-30 transition-all ease-out duration-300 overflow-hidden'>
-                                <span className='yspan absolute -bottom-5'>Clients'Feedback</span>
+                                <span className='yspan absolute -bottom-5'>Clients&apos;Feedback</span>
                             </li>
                             <li className='relative h-5 hover:opacity-30 transition-all ease-out duration-300 overflow-hidden'>
                                 <span className='yspan absolute -bottom-5'>Careers</span>

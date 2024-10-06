@@ -374,7 +374,7 @@ export default function Home() {
                 <div className="leading-4 text-sm inline-block w-[32%]">Services</div>
                 <p className="">We lead your startup at every step of its <br /> growth, providing unparalleled personal</p>
               </div>
-              <p className="w-full ">service at every interaction. Whether it's launching an MVP, revamping an existing product, securing funding with UI prototypes, increasing customer engagement, or boosting conversions, we develop a suite of custom-tailored design services to fulfill your expectations.</p>
+              <p className="w-full ">service at every interaction. Whether it&apos;s launching an MVP, revamping an existing product, securing funding with UI prototypes, increasing customer engagement, or boosting conversions, we develop a suite of custom-tailored design services to fulfill your expectations.</p>
             </div>
             <div className="">
               <ul className="pt-6 pb-12 flex flex-col gap-12 border-t-2 border-[#66666859]">
@@ -471,7 +471,7 @@ export default function Home() {
           </div>
           <div className="right w-[72%] pr-80 flex flex-col gap-28">
             <p className="text-black text-2xl">
-              We do not take on projects that involve blind conformity or designing out of context. We won't settle for a user interface design that is misaligned with your product and digital strategy. Neither will we launch web development ventures without user testing to validate our design solutions.
+              We do not take on projects that involve blind conformity or designing out of context. We won&apos;t settle for a user interface design that is misaligned with your product and digital strategy. Neither will we launch web development ventures without user testing to validate our design solutions.
             </p>
             <p className="text-black text-2xl">
               Instead, we create scalable digital products that meet the ever-evolving demands of our customers, ensuring long-term sustainability.
@@ -589,7 +589,7 @@ export default function Home() {
           </div>
           <div className="right w-[45%] flex flex-col items-end justify-between">
             <img className="w-1/3" src="/imgs/arrow.svg" alt="" />
-            <p className="w-2/3 text-end text-lg">Share your project idea with us! Should the partnership vibe not align, we're glad to furnish you with valuable insights that could prove beneficial.</p>
+            <p className="w-2/3 text-end text-lg">Share your project idea with us! Should the partnership vibe not align, we&apos;re glad to furnish you with valuable insights that could prove beneficial.</p>
           </div>
         </div>
         <img className="absolute z-0 w-[calc(100%-96px)] -top-[38%] left-36" src="/imgs/bookacall.webp" alt="" />
@@ -748,7 +748,7 @@ export default function Home() {
           </div>
           <div className="right w-[45%] flex flex-col items-end justify-between">
             <img className="w-1/3" src="/imgs/arrow.svg" alt="" />
-            <p className="w-2/3 text-end text-lg">Share your project idea with us! Should the partnership vibe not align, we're glad to furnish you with valuable insights that could prove beneficial.</p>
+            <p className="w-2/3 text-end text-lg">Share your project idea with us! Should the partnership vibe not align, we&apos;re glad to furnish you with valuable insights that could prove beneficial.</p>
           </div>
         </div>
         <img className="absolute z-0 w-[calc(100%-96px)] -top-[38%] left-36" src="/imgs/bookacall.webp" alt="" />
